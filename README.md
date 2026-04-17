@@ -2,19 +2,26 @@
 
 A simple command-line To-Do application built with Python.
 
+---
+
 ## 🚀 Features
-- Add tasks
-- Show tasks
+- Add new tasks
+- Show all tasks
 - Edit tasks
 - Delete tasks
 - Prevent duplicate tasks
-- Save tasks to file
+- Save tasks to file (persistent storage)
 
-## 🛠️ Technologies
-- Python
+---
+
+## 🛠️ Technologies Used
+- Python 3
 - File Handling
+- CLI (Command Line Interface)
+
+---
 
 ## ▶️ How to Run
-Run the program with:
 
+```bash
 python main.py
